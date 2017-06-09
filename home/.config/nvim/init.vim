@@ -75,7 +75,8 @@ endif
 NeoBundle 'honza/vim-snippets'
 
 "" Color
-NeoBundle 'tomasr/molokai'
+" NeoBundle 'tomasr/molokai'
+NeoBundle 'chriskempson/base16-vim'
 
 "" Vim-Bootstrap Updater by sherzberg
 NeoBundle 'avelino/vim-bootstrap-updater'
@@ -171,7 +172,7 @@ set number
 
 let no_buffers_menu=1
 if !exists('g:not_finsh_neobundle')
-  colorscheme molokai
+  colorscheme base16-default-dark
 endif
 
 set mousemodel=popup
