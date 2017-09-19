@@ -92,7 +92,7 @@ NeoBundle "fatih/vim-go"
 NeoBundle 'jelera/vim-javascript-syntax'
 
 "" HTML Bundle
-NeoBundle 'amirh/HTML-AutoCloseTag'
+NeoBundle 'heracek/HTML-AutoCloseTag'
 NeoBundle 'hail2u/vim-css3-syntax'
 NeoBundle 'gorodinskiy/vim-coloresque'
 NeoBundle 'tpope/vim-haml'
